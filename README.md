@@ -1,4 +1,4 @@
-# Weather App
+# Weather App for us
 
 Replace this readme with your own information about your project.
 
